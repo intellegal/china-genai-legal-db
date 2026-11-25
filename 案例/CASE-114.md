@@ -54,3 +54,4 @@
 |---|---|---|
 | [最高法变身漫画模型竞争利益典型介绍](官方介绍/CASE-114-最高法变身漫画典型介绍.md) | [最高法新闻局原发](https://www.court.gov.cn/zixun/xiangqing/475691.html) · [证监局同文转载](https://www.csrc.gov.cn/beijing/c105536/c7657880/content.shtml) | 原发及第八案文字已核，本地保存相关介绍 |
 | 杜颖教授专家点评 | [最高人民法院刊载，案例8](https://www.court.gov.cn/zixun/xiangqing/475871.html) | 可读点评原文。文中对一般条款构成要件及竞争利益的归纳为专家意见 |
+| 《法律适用》2026年第3期两篇“变身漫画特效”评析 | [模型结构和参数研究](https://www.pkulaw.com/qikan/acf5331ce14a1cb5e32fb714b9bb6769bdfb.html) · [模型司法保护研究](https://www.pkulaw.com/qikan/acf5331ce14a1cb546a07fff9e940d0fbdfb.html) | 前者第11注列原审71391号，后者第2注列终审3802号。知产宝可见[原审条目](https://www.iphouse.cn/casetypical/detail/51ogy02m84p76m7p91p6wzv3xnkeqd9r.html)，正文需登录。原审正文及二审图像附表待补 |
