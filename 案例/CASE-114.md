@@ -52,4 +52,5 @@
 
 | 材料 | 公开出处 | 辅助材料状态 |
 |---|---|---|
-| [最高法变身漫画模型竞争利益典型介绍](官方介绍/CASE-114-最高法变身漫画典型介绍.md) | [公开页面](https://www.csrc.gov.cn/beijing/c105536/c7657880/content.shtml) | 本版介绍文字已保存，公开链接已补 |
+| [最高法变身漫画模型竞争利益典型介绍](官方介绍/CASE-114-最高法变身漫画典型介绍.md) | [最高法新闻局原发](https://www.court.gov.cn/zixun/xiangqing/475691.html) · [证监局同文转载](https://www.csrc.gov.cn/beijing/c105536/c7657880/content.shtml) | 原发及第八案文字已核，本地保存相关介绍 |
+| 杜颖教授专家点评 | [最高人民法院刊载，案例8](https://www.court.gov.cn/zixun/xiangqing/475871.html) | 可读点评原文。文中对一般条款构成要件及竞争利益的归纳为专家意见 |

@@ -2,7 +2,7 @@
 
 ## 出处与原始材料
 
-- [最高法发布入口](https://ipc.court.gov.cn/zh-cn/news/view-4601.html)。
+- [最高人民法院新闻局2025年9月8日原发及第八案全文](https://www.court.gov.cn/zixun/xiangqing/475691.html)。最高人民法院知识产权法庭网站亦刊载同批案例。[知产法庭刊载](https://ipc.court.gov.cn/zh-cn/news/view-4601.html)
 - [实际可读同文转载](https://www.csrc.gov.cn/beijing/c105536/c7657880/content.shtml)：中国证监会北京监管局；第八案基本案情、二审裁判和典型意义与既存正文相符。
 - 保留既有原文；非新判决，转载不替代法院裁判文书。
 
