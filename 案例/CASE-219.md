@@ -44,6 +44,7 @@
 |---|---|---|
 | [CASE-219 无锡中院典型介绍](官方介绍/CASE-219-无锡中院典型介绍.md) | [公开页面](https://mp.weixin.qq.com/s/9WffzpKzRBmXu8n9knX-Ig) | 本版介绍文字已保存，公开链接已补 |
 | 最高人民法院2026年反不正当竞争典型案例六 | [最高法新闻局原发](https://www.court.gov.cn/zixun/xiangqing/511301.html) · [最高法知识产权法庭刊载](https://ipc.court.gov.cn/zh-cn/news/view-6042.html) | 两个刊载入口均可阅读案例六完整相关内容。一审案号和生效状态一致 |
+| 新吴法院4·26专题案例三 | [一审法院官网，2026-04-24](https://xw.wxfy.gov.cn/article/detail/2026/04/id/9297420.shtml) | 同样概述数万篇进销存AI测评用于引流。官网介绍也写有停止行为，具体主文以已存原判为准 |
 
 ## 文本版本与附件边界
 

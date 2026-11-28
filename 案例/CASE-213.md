@@ -37,5 +37,5 @@
 
 | 材料 | 公开出处 | 辅助材料状态 |
 |---|---|---|
-| [CASE-213 秦皇岛中院发布](官方介绍/CASE-213-秦皇岛中院发布.md) | [公开页面](https://mp.weixin.qq.com/s/Mv8IP5wv4oGX6RDtJEEjcg) | 本版介绍文字已保存，公开链接已补 |
+| [CASE-213 秦皇岛中院发布](官方介绍/CASE-213-秦皇岛中院发布.md) | [秦皇岛中院官网](https://qhdzy.hebeicourt.gov.cn/article/detail/2025/04/id/8774494.shtml) · [中院公众号](https://mp.weixin.qq.com/s/Mv8IP5wv4oGX6RDtJEEjcg) | 两个入口的案件相关正文一致，归在同一材料条目 |
 | 祝建军《人工智能生成内容的著作权法定性》 | [杂志社原发](https://mp.weixin.qq.com/s?__biz=MzA5MzY5NDAwNQ%3D%3D&mid=2650461519&idx=1&sn=14321da2724be62466a5b8fcb9b56ffa) | 论文章节“我国关于人工智能生成内容可版权性的司法裁判经验”有本案一段，含金额。原判待补 |

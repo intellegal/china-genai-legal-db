@@ -46,4 +46,4 @@
 
 | 材料 | 公开出处 | 辅助材料状态 |
 |---|---|---|
-| [AI生成上市公司失实万字文：法院发布](官方介绍/CASE-064-广州互联网法院发布.md) | [公开页面](https://mp.weixin.qq.com/s/6QX7TgmYleBTanbmQQ2kAQ) | 本版介绍文字已保存，公开链接已补 |
+| [AI生成上市公司失实万字文：法院发布](官方介绍/CASE-064-广州互联网法院发布.md) | [法院公众号原发](https://mp.weixin.qq.com/s/6QX7TgmYleBTanbmQQ2kAQ) · [法院澎湃政务号同文](https://www.thepaper.cn/newsDetail_forward_32758160) | 同一发布稿，案情、处理结果及法官说法已保存 |

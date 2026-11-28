@@ -32,3 +32,5 @@
 | 材料 | 公开出处 | 辅助材料状态 |
 |---|---|---|
 | [李某诉熊某升房屋租赁合同纠纷案案例库介绍](官方介绍/CASE-202-人民法院案例库介绍.md) | [公开正文载体](https://mp.weixin.qq.com/s?__biz=MzAwOTA4NjIwOQ==&mid=2650588256&idx=1&sn=f8d5ee98591adebd8d333ce181045808) | 既有文字保留；载体已补；原发／版本边界见资料页 |
+| 《法律适用》2026年第11期释解，第31页及第59注 | [正式刊本](https://flsy.cbpt.cnki.net/portal/journal/portal/client/paper/f79585790a8c35b75308dbb5c22455af) · [先行发布版](https://flsy.cbpt.cnki.net/portal/journal/portal/client/paper/d9235e7dd8bda6e6dc2f0d34ec24514b) | 正式刊本将本案列为2026-18-2-116-001，与可见案例索引上的法院和裁判案号一致。先行发布版写2026-07-2-116-001。该号码也见于地方法院发布的福建莆田另案（2025）闽03民终1384号，单凭号码可能串案。 [同号另案法院发布](https://www.sdcourt.gov.cn/qdjmfy/399674/399657/44634340/index.html) |
+| 人民法院案例库直达入口 | [案例库入口](https://rmfyalk.court.gov.cn/view/content.html?id=ZpQi6upqIPaGzWrZ3cen9FMyonIeKks6zmq3fBjBoOA%253D&lib=ck) · [案号与链接的第三方索引](https://law.nuochi.cn/cases/s/ck-0055.html) | 已定位与本案案号对应的入口。浏览器跳转至统一账户登录页，直达页正文及当前显示的入库编号待核。 |
